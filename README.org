@@ -21,6 +21,11 @@ My config files
 
 * Doom Emacs
 1. install nursery[https://github.com/chrisbarrett/nursery] to ~/tools
+     
+* Dolpin
+#+begin_src bash
+yay -S archlinux-xdg-menu kservice5 kde-cli-tools
+#+end_src
 
 # Local Variables:
 # eval: (org-num-mode 1)
